@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/Plugins/SFOAuthPlugin/SalesforceOAuthPlugin.m \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/../dependencies/Cordova.framework/Headers/NSMutableArray+QueueAdditions.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/../dependencies/Cordova.framework/Headers/CDVPluginResult.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/Plugins/SFOAuthPlugin/SalesforceOAuthPlugin.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/SalesforceOAuth/Headers/SalesforceOAuth/SFOAuthCoordinator.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/SalesforceOAuth/Headers/SalesforceOAuth/SFOAuthCredentials.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/Identity/SFIdentityCoordinator.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/../dependencies/Cordova.framework/Headers/CDVPlugin.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/../dependencies/Cordova.framework/Headers/CDVCommandDelegate.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/../dependencies/Cordova.framework/Headers/CDVInvokedUrlCommand.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/Common/SalesforceSDKConstants.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/Container/SFContainerAppDelegate.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/SalesforceCommonUtils/Headers/SFLogger.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/util/SFJsonUtils.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/Security/SFAccountManager.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/Identity/SFIdentityData.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/Security/SFSecurityLockout.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/Common/SFUserActivityMonitor.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/SalesforceOAuth/Headers/SalesforceOAuth/SFOAuthInfo.h

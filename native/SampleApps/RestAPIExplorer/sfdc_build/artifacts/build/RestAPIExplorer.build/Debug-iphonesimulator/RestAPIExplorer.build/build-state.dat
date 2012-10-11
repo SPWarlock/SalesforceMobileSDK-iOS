@@ -1,0 +1,660 @@
+TRestAPIExplorer
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Info.plist RestAPIExplorer/RestAPIExplorer-Info.plist
+cSymLink /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+cPhaseScriptExecution "Run Script" /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Script-7D7D1E75147ADE25005CDD2C.sh
+cProcessPCH /var/folders/92/h7mhqs6s7x122m4hgwd3bfsm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RestAPIExplorer-Prefix-anxiedzdqkebyxbcbfknywpwulcu/RestAPIExplorer-Prefix.pch.pth RestAPIExplorer/RestAPIExplorer-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/main.o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/AppDelegate.o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/RestAPIExplorerViewController.o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/QueryListViewController.o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer normal i386
+cGenerateDSYMFile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer
+cCopyStringsFile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/en.lproj/InfoPlist.strings RestAPIExplorer/en.lproj/InfoPlist.strings
+cCpResource RestAPIExplorer/RestAPIExplorer-Prefix.pch sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer-Prefix.pch
+cCpResource RestAPIExplorer/Resources/icons/icon-72.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon-72.png
+cCpResource RestAPIExplorer/Resources/icons/icon.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon.png
+cCpResource RestAPIExplorer/Resources/icons/icon@2x.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon@2x.png
+cCpResource RestAPIExplorer/Resources/splash/Default-Landscape~ipad.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Landscape~ipad.png
+cCpResource RestAPIExplorer/Resources/splash/Default-Portrait~ipad.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Portrait~ipad.png
+cCpResource RestAPIExplorer/Resources/splash/Default.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default.png
+cCpResource RestAPIExplorer/Resources/splash/Default@2x.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default@2x.png
+cCpResource RestAPIExplorer/Resources/splash/Default~iPad.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default~iPad.png
+cCpResource RestAPIExplorer/readme.txt sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/readme.txt
+cCompileXIB /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFAuthorizingViewController.xib
+cCpResource RestAPIExplorer/Settings.bundle sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Settings.bundle
+cCompileXIB /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.xib
+cCompileXIB /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.xib
+cCompileXIB /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFNativeRootViewController.xib
+cGenerateDSYMFile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer
+cTouch /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+cStrip /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer
+cSetOwnerAndGroup mikejupp:staff /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+cSetMode u+w,go-w,a+rX /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+cTouch /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000507611460000000000215D60
+t1349914950
+s2186592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000050761147000000000030BB10
+t1349914951
+s3193616
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000507611470000000000228FD0
+t1349914951
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005076114900000000003DCEF0
+t1349914953
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005076114D00000000000BCB50
+t1349914957
+s772944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005076114F00000000001D57A0
+t1349914959
+s1922976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000050761150000000000006E370
+t1349914960
+s451440
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000050761152000000000006CC50
+t1349914962
+s445520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000507611540000000000AB3D60
+t1349914964
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/lib/libsqlite3.dylib
+c000000005076116B00000000000D1F20
+t1349914987
+s859936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/lib/libxml2.dylib
+c000000005076116B0000000000128820
+t1349914987
+s1214496
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/lib/libz.dylib
+c000000005076116B0000000000013500
+t1349914987
+s79104
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/../../../dependencies/RestKit/libRestKit.a
+c000000005058B2E100000000007BDABC
+t1347990241
+s8116924
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/../../../dependencies/SalesforceCommonUtils/Libraries/libSalesforceCommonUtils.a
+c00000000505A161D00000000000A6A6C
+t1348081181
+s682604
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/../../../dependencies/SalesforceOAuth/Libraries/libSalesforceOAuth.a
+c000000005059171E000000000006E184
+t1348015902
+s450948
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/../../../dependencies/SalesforceSDK/libSalesforceSDK.a
+c0000000050721C6A00000000001D44E4
+t1349655658
+s1918180
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/AppDelegate.m
+c0000000050738A220000000000000EC8
+t1349749282
+s3784
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.m
+c0000000050738A2200000000000014E5
+t1349749282
+s5349
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.xib
+c0000000050738A22000000000000172E
+t1349749282
+s5934
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.m
+c0000000050738A2200000000000031E1
+t1349749282
+s12769
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.xib
+c0000000050738A220000000000010CFE
+t1349749282
+s68862
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFAuthorizingViewController.xib
+c0000000050738A2200000000000026E1
+t1349749282
+s9953
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFNativeRootViewController.xib
+c0000000050738A220000000000001D4E
+t1349749282
+s7502
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/icons/icon-72.png
+c0000000050738A2200000000000022B4
+t1349749282
+s8884
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/icons/icon.png
+c0000000050738A220000000000001A57
+t1349749282
+s6743
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/icons/icon@2x.png
+c0000000050738A2200000000000049CB
+t1349749282
+s18891
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/splash/Default-Landscape~ipad.png
+c0000000050738A22000000000000D5DA
+t1349749282
+s54746
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/splash/Default-Portrait~ipad.png
+c0000000050738A22000000000000866F
+t1349749282
+s34415
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/splash/Default.png
+c0000000050738A22000000000000661D
+t1349749282
+s26141
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/splash/Default@2x.png
+c0000000050738A220000000000013DA9
+t1349749282
+s81321
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/splash/Default~iPad.png
+c0000000050738A220000000000009A7D
+t1349749282
+s39549
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/RestAPIExplorer-Prefix.pch
+c0000000050738A220000000000000148
+t1349749282
+s328
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Settings.bundle
+c0000000050738A220000000000000154
+t1349749282
+s340
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/en.lproj/InfoPlist.strings
+c0000000050738A22000000000000002D
+t1349749282
+s45
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/main.m
+c0000000050738A220000000000000708
+t1349749282
+s1800
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/readme.txt
+c0000000050738A22000000000000017D
+t1349749282
+s381
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/QueryListViewController.o
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/RestAPIExplorer.LinkFileList
+c0000000050762E6B0000000000000343
+t1349922411
+s835
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/RestAPIExplorerViewController.o
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Script-7D7D1E75147ADE25005CDD2C.sh
+c0000000050762E6B0000000000000041
+t1349922411
+s65
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default.png
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default@2x.png
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default~iPad.png
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Info.plist
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/PkgInfo
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/QueryListViewController.nib
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer-Prefix.pch
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorerViewController.nib
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/SFAuthorizingViewController.nib
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/SFNativeRootViewController.nib
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Settings.bundle
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon-72.png
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon.png
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon@2x.png
+t2
+s0
+
+N/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/readme.txt
+t2
+s0
+
+N/var/folders/92/h7mhqs6s7x122m4hgwd3bfsm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RestAPIExplorer-Prefix-anxiedzdqkebyxbcbfknywpwulcu/RestAPIExplorer-Prefix.pch.pth
+t2
+s0
+
+NRestAPIExplorer/RestAPIExplorer-Info.plist
+c0000000050738A2200000000000006C4
+t1349749282
+s1732
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6aa459eb6526b641^1c40c3eb6526b641^---0#1#0#--18"Check dependencies36"8E10B07B-CF92-4630-9286-7C1F4619D66B-
+
+CCompileC build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/AppDelegate.o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371615215.537882
+e371615215.694209
+r1
+xCompileC
+xbuild/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/AppDelegate.o
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Compile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/AppDelegate.mb3ec89ef6526b641^8db7b1ef6526b641^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/AppDelegate.m0000000000000000^4510"CompileC build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/AppDelegate.o RestAPIExplorer/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-generated-files.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-own-target-headers.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-all-target-headers.hmap -iquote /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-project-headers.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/DerivedSources/i386 -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/DerivedSources -F/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator -include /var/folders/92/h7mhqs6s7x122m4hgwd3bfsm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RestAPIExplorer-Prefix-anxiedzdqkebyxbcbfknywpwulcu/RestAPIExplorer-Prefix.pch -MMD -MT dependencies -MF /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/AppDelegate.dia -c /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/AppDelegate.m -o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/AppDelegate.o36"C9EA9F54-AFDF-4F6C-96CA-215A4172FF66-
+
+CCompileC build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/QueryListViewController.o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371615215.882571
+e371615216.017066
+r1
+xCompileC
+xbuild/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/QueryListViewController.o
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Compile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.mce37e2ef6526b641^5f5e04f06526b641^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.m0000000000000000^4582"CompileC build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/QueryListViewController.o RestAPIExplorer/Classes/QueryListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-generated-files.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-own-target-headers.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-all-target-headers.hmap -iquote /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-project-headers.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/DerivedSources/i386 -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/DerivedSources -F/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator -include /var/folders/92/h7mhqs6s7x122m4hgwd3bfsm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RestAPIExplorer-Prefix-anxiedzdqkebyxbcbfknywpwulcu/RestAPIExplorer-Prefix.pch -MMD -MT dependencies -MF /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/QueryListViewController.d --serialize-diagnostics /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/QueryListViewController.dia -c /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.m -o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/QueryListViewController.o36"430CE0F5-A1D6-42F1-92D6-BBE3B2EC1B83-
+
+CCompileC build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/RestAPIExplorerViewController.o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371615215.695517
+e371615215.881118
+r1
+xCompileC
+xbuild/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/RestAPIExplorerViewController.o
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"Compile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.m124fb2ef6526b641^f390e1ef6526b641^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.m0000000000000000^4618"CompileC build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/RestAPIExplorerViewController.o RestAPIExplorer/Classes/RestAPIExplorerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-generated-files.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-own-target-headers.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-all-target-headers.hmap -iquote /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-project-headers.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/DerivedSources/i386 -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/DerivedSources -F/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator -include /var/folders/92/h7mhqs6s7x122m4hgwd3bfsm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RestAPIExplorer-Prefix-anxiedzdqkebyxbcbfknywpwulcu/RestAPIExplorer-Prefix.pch -MMD -MT dependencies -MF /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/RestAPIExplorerViewController.d --serialize-diagnostics /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/RestAPIExplorerViewController.dia -c /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.m -o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/RestAPIExplorerViewController.o36"65C3875D-8745-4C95-8B6F-D8F295D99A69-
+
+CCompileC build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/main.o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371615215.536759
+e371615215.604526
+r1
+xCompileC
+xbuild/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/main.o
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/main.m88a189ef6526b641^37c29aef6526b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/main.m0000000000000000^4452"CompileC build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/main.o RestAPIExplorer/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-generated-files.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-own-target-headers.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-all-target-headers.hmap -iquote /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-project-headers.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/DerivedSources/i386 -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/DerivedSources -F/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator -include /var/folders/92/h7mhqs6s7x122m4hgwd3bfsm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RestAPIExplorer-Prefix-anxiedzdqkebyxbcbfknywpwulcu/RestAPIExplorer-Prefix.pch -MMD -MT dependencies -MF /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/main.dia -c /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/main.m -o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/main.o36"772B7CC2-04F3-4989-9994-64087C7E8928-
+
+CCompileXIB /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.xib
+s371615232.503990
+e371615232.868020
+r1
+xCompileXIB
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Compiling /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.xib467e81006626b641^5837de006626b641^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.xib0000000000000000^1172"CompileXIB RestAPIExplorer/Classes/QueryListViewController.xib    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/QueryListViewController.nib /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/QueryListViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"CA894733-4AD5-4115-A335-831AE9E226B2-
+
+CCompileXIB /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.xib
+s371615217.963699
+e371615234.564203
+r1
+xCompileXIB
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"Compiling /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.xiba5dbf6f16526b641^59c391026626b641^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.xib0000000000000000^1190"CompileXIB RestAPIExplorer/Classes/RestAPIExplorerViewController.xib    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorerViewController.nib /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Classes/RestAPIExplorerViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"01703BB0-EA0F-4A8D-A9A0-2A0BA27BF658-
+
+CCompileXIB /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFAuthorizingViewController.xib
+s371615217.939185
+e371615232.495488
+r1
+xCompileXIB
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFAuthorizingViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection168"Compiling /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFAuthorizingViewController.xibac8ef0f16526b641^f3e87e006626b641^---0#0#0#-19%DVTDocumentLocation2@174"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFAuthorizingViewController.xib0000000000000000^1196"CompileXIB RestAPIExplorer/NativeRestApp/SFAuthorizingViewController.xib    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/SFAuthorizingViewController.nib /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFAuthorizingViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"03881943-FCC4-424C-A9C9-269D82D63F71-
+
+CCompileXIB /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFNativeRootViewController.xib
+s371615232.506300
+e371615237.304725
+r1
+xCompileXIB
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFNativeRootViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection167"Compiling /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFNativeRootViewController.xibbe1482006626b641^10064e056626b641^---0#0#0#-19%DVTDocumentLocation2@173"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFNativeRootViewController.xib0000000000000000^1193"CompileXIB RestAPIExplorer/NativeRestApp/SFNativeRootViewController.xib    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/SFNativeRootViewController.nib /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/NativeRestApp/SFNativeRootViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"28645B02-2E9C-4AE2-B01D-6690D89D9705-
+
+CCopyStringsFile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/en.lproj/InfoPlist.strings RestAPIExplorer/en.lproj/InfoPlist.strings
+s371615217.889851
+e371615217.920582
+r1
+xCopyStringsFile
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/en.lproj/InfoPlist.strings
+xRestAPIExplorer/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy RestAPIExplorer/en.lproj/InfoPlist.stringsadf7e3f16526b641^3db8ebf16526b641^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/en.lproj/InfoPlist.strings0000000000000000^783"CopyStringsFile sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/en.lproj/InfoPlist.strings RestAPIExplorer/en.lproj/InfoPlist.strings    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/en.lproj -- RestAPIExplorer/en.lproj/InfoPlist.strings36"5D9BB2AB-1C1B-4AD7-A41A-373350858C40-
+
+CCpResource RestAPIExplorer/Resources/icons/icon-72.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon-72.png
+s371615217.896361
+e371615217.915718
+r1
+xCpResource
+xRestAPIExplorer/Resources/icons/icon-72.png
+xsfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon-72.pnged9de5f16526b641^7572eaf16526b641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon-72.png000000000080d041^872"CpResource RestAPIExplorer/Resources/icons/icon-72.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon-72.png    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/icons/icon-72.png /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"47B94C79-30A4-4D68-AA73-F83C680AA166-
+
+CCpResource RestAPIExplorer/Resources/icons/icon.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon.png
+s371615217.917040
+e371615217.921215
+r1
+xCpResource
+xRestAPIExplorer/Resources/icons/icon.png
+xsfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon.png8923ebf16526b641^67d5ebf16526b641^---0#0#0#-19%DVTDocumentLocation2@185"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon.png000000000080d041^863"CpResource RestAPIExplorer/Resources/icons/icon.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon.png    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/icons/icon.png /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"47AC5778-B1D2-4A70-93F8-92C16F0FA5C8-
+
+CCpResource RestAPIExplorer/Resources/icons/icon@2x.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon@2x.png
+s371615217.921780
+e371615217.926223
+r1
+xCpResource
+xRestAPIExplorer/Resources/icons/icon@2x.png
+xsfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon@2x.pnge21decf16526b641^2045edf16526b641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon@2x.png000000000080d041^878"CpResource "RestAPIExplorer/Resources/icons/icon@2x.png" "sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/icon@2x.png"    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/icons/icon@2x.png" /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"A6A873C0-C75A-4B15-966C-B2B165DDE14C-
+
+CCpResource RestAPIExplorer/Resources/splash/Default-Landscape~ipad.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Landscape~ipad.png
+s371615217.922603
+e371615217.927228
+r1
+xCpResource
+xRestAPIExplorer/Resources/splash/Default-Landscape~ipad.png
+xsfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Landscape~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Landscape~ipad.pnga851ecf16526b641^0d6cedf16526b641^---0#0#0#-19%DVTDocumentLocation2@203"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Landscape~ipad.png000000000080d041^925"CpResource "RestAPIExplorer/Resources/splash/Default-Landscape~ipad.png" "sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Landscape~ipad.png"    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/splash/Default-Landscape~ipad.png" /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"14F7F990-3F98-473B-8DD1-10E6189BD83E-
+
+CCpResource RestAPIExplorer/Resources/splash/Default-Portrait~ipad.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Portrait~ipad.png
+s371615217.927501
+e371615217.931947
+r1
+xCpResource
+xRestAPIExplorer/Resources/splash/Default-Portrait~ipad.png
+xsfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Portrait~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Portrait~ipad.png5396edf16526b641^b0aeeef16526b641^---0#0#0#-19%DVTDocumentLocation2@202"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Portrait~ipad.png000000000080d041^922"CpResource "RestAPIExplorer/Resources/splash/Default-Portrait~ipad.png" "sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default-Portrait~ipad.png"    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/splash/Default-Portrait~ipad.png" /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"60D62B68-F31D-4288-8949-28361C87E7B4-
+
+CCpResource RestAPIExplorer/Resources/splash/Default.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default.png
+s371615217.927593
+e371615217.932783
+r1
+xCpResource
+xRestAPIExplorer/Resources/splash/Default.png
+xsfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default.pngb79aedf16526b641^ddd2eef16526b641^---0#0#0#-19%DVTDocumentLocation2@188"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default.png000000000080d041^874"CpResource RestAPIExplorer/Resources/splash/Default.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default.png    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/splash/Default.png /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"AA76BB83-B84E-4327-B05E-87B370B84FA0-
+
+CCpResource RestAPIExplorer/Resources/splash/Default@2x.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default@2x.png
+s371615217.933207
+e371615217.937916
+r1
+xCpResource
+xRestAPIExplorer/Resources/splash/Default@2x.png
+xsfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default@2x.png4a0beff16526b641^5726f0f16526b641^---0#0#0#-19%DVTDocumentLocation2@191"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default@2x.png000000000080d041^889"CpResource "RestAPIExplorer/Resources/splash/Default@2x.png" "sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default@2x.png"    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/splash/Default@2x.png" /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"3AAFC81B-D4D8-4D9F-B139-8E6C69631608-
+
+CCpResource RestAPIExplorer/Resources/splash/Default~iPad.png sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default~iPad.png
+s371615217.933244
+e371615217.936865
+r1
+xCpResource
+xRestAPIExplorer/Resources/splash/Default~iPad.png
+xsfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default~iPad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default~iPad.pngfa09eff16526b641^e6e6eff16526b641^---0#0#0#-19%DVTDocumentLocation2@193"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default~iPad.png000000000080d041^895"CpResource "RestAPIExplorer/Resources/splash/Default~iPad.png" "sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Default~iPad.png"    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Resources/splash/Default~iPad.png" /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"958AB747-23BB-4C1A-8662-221811C82AFD-
+
+CCpResource RestAPIExplorer/RestAPIExplorer-Prefix.pch sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer-Prefix.pch
+s371615217.890752
+e371615217.895001
+r1
+xCpResource
+xRestAPIExplorer/RestAPIExplorer-Prefix.pch
+xsfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer-Prefix.pch
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer-Prefix.pch6342e4f16526b641^0820e5f16526b641^---0#0#0#-19%DVTDocumentLocation2@203"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer-Prefix.pch000000000080d041^885"CpResource RestAPIExplorer/RestAPIExplorer-Prefix.pch sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer-Prefix.pch    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/RestAPIExplorer-Prefix.pch /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"F1C480CB-52D1-4328-B33F-B8A0C4B06639-
+
+CCpResource RestAPIExplorer/Settings.bundle sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Settings.bundle
+s371615217.944991
+e371615217.962363
+r1
+xCpResource
+xRestAPIExplorer/Settings.bundle
+xsfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Settings.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Settings.bundle9e0cf2f16526b641^94f6f6f16526b641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Settings.bundle000000000080d041^852"CpResource RestAPIExplorer/Settings.bundle sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Settings.bundle    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/Settings.bundle /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"4585B4BD-9E74-4EBC-A567-1197A38D68DD-
+
+CCpResource RestAPIExplorer/readme.txt sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/readme.txt
+s371615217.938420
+e371615217.941623
+r1
+xCpResource
+xRestAPIExplorer/readme.txt
+xsfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/readme.txt
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/readme.txtee5cf0f16526b641^bb0ef1f16526b641^---0#0#0#-19%DVTDocumentLocation2@187"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/readme.txt000000000080d041^837"CpResource RestAPIExplorer/readme.txt sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/readme.txt    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/readme.txt /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"F4934991-1157-4385-9340-B34B6FA487A2-
+
+CGenerateDSYMFile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer
+s371615237.326420
+e371615237.662830
+r1
+xGenerateDSYMFile
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"Generating /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM28b953056626b641^03b0a9056626b641^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM/0000000000000000^907"GenerateDSYMFile build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer -o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM36"EEC19E9D-C8EA-4B6A-8687-9411357713DF-
+
+CLd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer normal i386
+s371615216.023868
+e371615217.622217
+r1
+xLd
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection181"Link /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorerc65006f06526b641^d4639ff16526b641^---0#0#0#--2765"Ld sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer normal i386    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator -L/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/dependencies/RestKit -L/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/dependencies/SalesforceOAuth -L/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/dependencies/SalesforceSDK -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/lib -L/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/../../dependencies/SalesforceOAuth/Libraries -L/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/../../dependencies/SalesforceSDK -L/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/../../dependencies/SalesforceCommonUtils/Libraries -F/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator -filelist /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Objects-normal/i386/RestAPIExplorer.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -all_load -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -lsqlite3 -lz -framework CoreData -framework QuartzCore -framework SystemConfiguration -framework Security -framework UIKit -framework Foundation -framework CoreGraphics -framework CFNetwork -framework MobileCoreServices -lxml2 -lRestKit -lSalesforceCommonUtils -lSalesforceOAuth -lSalesforceSDK -o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer36"CB4E54C9-D481-45A1-A09E-A428966035FC-
+
+CPhaseScriptExecution "Run Script" /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Script-7D7D1E75147ADE25005CDD2C.sh
+s371615211.758274
+e371615213.255974
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Script-7D7D1E75147ADE25005CDD2C.sh
+oBuildfile: /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/build.xml
+o
+odependency.restkit.check:
+o
+oiOSShared.dependency.restkit:
+o
+odependency.oauth.check:
+o
+oiOSShared.dependency.oauth:
+o
+odependency.sdk.check:
+o
+oiOSShared.dependency.sdk:
+o
+oensureDependencies:
+o
+oBUILD SUCCESSFUL
+oTotal time: 0 seconds
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'151bc3eb6526b641^fd8641ed6526b641^-352"Buildfile: /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/build.xmldependency.restkit.check:iOSShared.dependency.restkit:dependency.oauth.check:iOSShared.dependency.oauth:dependency.sdk.check:iOSShared.dependency.sdk:ensureDependencies:BUILD SUCCESSFULTotal time: 0 seconds10(21%IDEActivityLogMessage2@129"Buildfile: /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/build.xml-371615212#0#129#-0#-----2@26"dependency.restkit.check:-371615213#130#26#-0#-----2@30"iOSShared.dependency.restkit:-371615213#157#30#-0#-----2@24"dependency.oauth.check:-371615213#188#24#-0#-----2@28"iOSShared.dependency.oauth:-371615213#213#28#-0#-----2@22"dependency.sdk.check:-371615213#242#22#-0#-----2@26"iOSShared.dependency.sdk:-371615213#265#26#-0#-----2@20"ensureDependencies:-371615213#292#20#-0#-----2@17"BUILD SUCCESSFUL-371615213#313#17#-0#-----2@22"Total time: 0 seconds-371615213#330#22#-0#-----0#0#0#--464"PhaseScriptExecution "Run Script" build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Script-7D7D1E75147ADE25005CDD2C.sh    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    /bin/sh -c /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/Script-7D7D1E75147ADE25005CDD2C.sh36"82489CB3-E6DF-42F2-9F62-BC737EBD70A5-
+
+CProcessInfoPlistFile /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Info.plist RestAPIExplorer/RestAPIExplorer-Info.plist
+s371615211.706922
+e371615211.714926
+r1
+xProcessInfoPlistFile
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Info.plist
+xRestAPIExplorer/RestAPIExplorer-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Process RestAPIExplorer/RestAPIExplorer-Info.plist2e70b5eb6526b641^465dc3eb6526b641^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/RestAPIExplorer-Info.plist0000000000000000^956"ProcessInfoPlistFile sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Info.plist RestAPIExplorer/RestAPIExplorer-Info.plist    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-infoPlistUtility RestAPIExplorer/RestAPIExplorer-Info.plist -genpkginfo /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/Info.plist36"76ECCAAA-19C7-44CC-8EB1-014FFA7BB4CD-
+
+CProcessPCH /var/folders/92/h7mhqs6s7x122m4hgwd3bfsm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RestAPIExplorer-Prefix-anxiedzdqkebyxbcbfknywpwulcu/RestAPIExplorer-Prefix.pch.pth RestAPIExplorer/RestAPIExplorer-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s371615213.265252
+e371615215.529182
+r1
+xProcessPCH
+x/var/folders/92/h7mhqs6s7x122m4hgwd3bfsm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RestAPIExplorer-Prefix-anxiedzdqkebyxbcbfknywpwulcu/RestAPIExplorer-Prefix.pch.pth
+xRestAPIExplorer/RestAPIExplorer-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile RestAPIExplorer/RestAPIExplorer-Prefix.pch513344ed6526b641^467887ef6526b641^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/RestAPIExplorer-Prefix.pch0000000000000000^4336"ProcessPCH /var/folders/92/h7mhqs6s7x122m4hgwd3bfsm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RestAPIExplorer-Prefix-anxiedzdqkebyxbcbfknywpwulcu/RestAPIExplorer-Prefix.pch.pth RestAPIExplorer/RestAPIExplorer-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-generated-files.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-own-target-headers.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-all-target-headers.hmap -iquote /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/RestAPIExplorer-project-headers.hmap -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/DerivedSources/i386 -I/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/RestAPIExplorer.build/Debug-iphonesimulator/RestAPIExplorer.build/DerivedSources -F/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/92/h7mhqs6s7x122m4hgwd3bfsm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RestAPIExplorer-Prefix-anxiedzdqkebyxbcbfknywpwulcu/RestAPIExplorer-Prefix.pch.dia -c /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/RestAPIExplorer/RestAPIExplorer-Prefix.pch -o /var/folders/92/h7mhqs6s7x122m4hgwd3bfsm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RestAPIExplorer-Prefix-anxiedzdqkebyxbcbfknywpwulcu/RestAPIExplorer-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/92/h7mhqs6s7x122m4hgwd3bfsm0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RestAPIExplorer-Prefix-anxiedzdqkebyxbcbfknywpwulcu/RestAPIExplorer-Prefix.pch.d36"4A11B86B-689C-4F90-84E1-FCD87FD5D3BD-
+
+CSetMode u+w,go-w,a+rX /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+s371615237.839118
+e371615237.888066
+r1
+xSetMode
+xu+w,go-w,a+rX
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"SetMode u+w,go-w,a+rX sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.appc7f2d6056626b641^4759e3056626b641^---0#0#0#-19%DVTDocumentLocation2@177"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/0000000000000000^607"SetMode u+w,go-w,a+rX sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /bin/chmod -RH u+w,go-w,a+rX /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"105E27FF-E4BA-46BF-B84F-0022606817E2-
+
+CSetOwnerAndGroup mikejupp:staff /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+s371615237.770025
+e371615237.830521
+r1
+xSetOwnerAndGroup
+xmikejupp:staff
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"SetOwnerAndGroup mikejupp:staff sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.appb342c5056626b641^9d9dd4056626b641^---0#0#0#-19%DVTDocumentLocation2@177"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/0000000000000000^627"SetOwnerAndGroup "mikejupp:staff" sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /usr/sbin/chown -RH "mikejupp:staff" /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"EA5572EE-7537-4E55-AAB0-8C8B51C878A3-
+
+CStrip /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer
+s371615237.715821
+e371615237.761967
+r1
+xStrip
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Strip sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer0261b7056626b641^f911c3056626b641^---0#0#0#-19%DVTDocumentLocation2@192"file://localhost/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer0000000000000000^687"Strip sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app/RestAPIExplorer36"A0493D2E-1699-442F-8207-25BA879F11DA-
+
+CSymLink /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+s371615211.707069
+e371615211.742605
+r1
+xSymLink
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Process /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app253cb5eb6526b641^aa61c3eb6526b641^---0#0#0#--769"SymLink build/Debug-iphonesimulator/RestAPIExplorer.app sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /bin/ln -sf /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app36"CB950FB8-A41B-4CD5-9A8D-27CBA3E8BEDE-
+
+CTouch /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM
+s371615237.897308
+e371615237.907653
+r1
+xTouch
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Touch /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM51d8e5056626b641^205de8056626b641^---0#0#0#--558"Touch build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /usr/bin/touch -c /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/build/Debug-iphonesimulator/RestAPIExplorer.app.dSYM36"F202FD99-BD02-4F38-B12B-E594354BDC14-
+
+CTouch /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+s371615237.671342
+e371615237.707193
+r1
+xTouch
+x/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Touch /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.appfcfcab056626b641^740bb5056626b641^---0#0#0#--580"Touch sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app    cd /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /usr/bin/touch -c /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app36"89450049-0991-4F9B-8198-8743EBF2FBB8-
+

@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/Container/SFContainerAppDelegate.m \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/Container/SFContainerAppDelegate.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/SalesforceCommonUtils/Headers/SFLogger.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/Container/SFHybridViewController.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/Cordova.framework/Headers/CDVViewController.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/Cordova.framework/Headers/CDVCordovaView.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/Cordova.framework/Headers/JSONKit.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/Cordova.framework/Headers/CDVInvokedUrlCommand.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/Cordova.framework/Headers/CDVCommandDelegate.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/Cordova.framework/Headers/CDVWhitelist.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/Common/SalesforceSDKConstants.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/Plugins/SFOAuthPlugin/SalesforceOAuthPlugin.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/SalesforceOAuth/Headers/SalesforceOAuth/SFOAuthCoordinator.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/SalesforceOAuth/Headers/SalesforceOAuth/SFOAuthCredentials.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/Identity/SFIdentityCoordinator.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/../dependencies/Cordova.framework/Headers/CDVPlugin.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/Cordova.framework/Headers/CDVPluginResult.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../dependencies/Cordova.framework/Headers/NSMutableArray+QueueAdditions.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/Security/SFAccountManager.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/Security/SFSecurityLockout.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/util/NSURL+SFStringUtils.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/../../../shared/Classes/Common/SFInactivityTimerCenter.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/SalesforceHybridSDK/Plugins/SFSmartStore/../../../../../shared/Classes/SmartStore/SFSmartStore.h \
+  /Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/hybrid/SalesforceHybridSDK/../dependencies/Cordova.framework/Headers/CDVURLProtocol.h

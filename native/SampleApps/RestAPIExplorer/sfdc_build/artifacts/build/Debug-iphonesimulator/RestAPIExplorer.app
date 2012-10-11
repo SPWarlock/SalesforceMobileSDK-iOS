@@ -1,0 +1,1 @@
+/Users/mikejupp/github.com/forcedotcom/SalesforceMobileSDK-iOS/native/SampleApps/RestAPIExplorer/sfdc_build/artifacts/Simulator/Applications/RestAPIExplorer.app
